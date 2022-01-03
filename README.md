@@ -4,11 +4,7 @@ BUMP netflix use notflex a tool which helps in searching magnet links and stream
 <p align="center">f@#k netflix use notflix a tool which search magnet links and stream it with webtorrent</p>
 
 ##
-<p align="center">
-<img src="./preview.gif" alt="Video Preview" width="500px">
-</p>
 
-> Watch my video on this - [bugswriter's notflix](https://youtu.be/RFJCL9C46Mc)
 ### How does this work?
 
 This is a shell script. It scrapes 1337x and gets the magnet link.
