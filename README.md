@@ -1,7 +1,7 @@
 # NOTFLEX-NETFLIX-
-BUMP netflix use notflex a tool which helps in searching magnet links and stream it with webtorrent
-<h1 align="center">NOTFLIX</h1>
-<p align="center">f@#k netflix use notflix a tool which search magnet links and stream it with webtorrent</p>
+
+<h1 align="center">NOTFLEX-NETFLIX-</h1>
+<p align="center">BUMP netflix use notflex a tool which helps in searching magnet links and stream it with webtorrent</p>
 
 ##
 
